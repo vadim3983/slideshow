@@ -1,0 +1,15 @@
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\bin\Release\net7.0-windows\OpacityEffect.deps.json
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\bin\Release\net7.0-windows\OpacityEffect.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\bin\Release\net7.0-windows\OpacityEffect.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\bin\Release\net7.0-windows\Islidesshow.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\bin\Release\net7.0-windows\Islidesshow.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\obj\Release\net7.0-windows\OpacityEffect.csproj.AssemblyReference.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\obj\Release\net7.0-windows\OpacityEffect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\obj\Release\net7.0-windows\OpacityEffect.AssemblyInfoInputs.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\obj\Release\net7.0-windows\OpacityEffect.AssemblyInfo.cs
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\obj\Release\net7.0-windows\OpacityEffect.csproj.CoreCompileInputs.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\obj\Release\net7.0-windows\OpacityEffect.csproj.CopyComplete
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\obj\Release\net7.0-windows\OpacityEffect.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\obj\Release\net7.0-windows\refint\OpacityEffect.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\obj\Release\net7.0-windows\OpacityEffect.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\OpacityEffect\obj\Release\net7.0-windows\ref\OpacityEffect.dll

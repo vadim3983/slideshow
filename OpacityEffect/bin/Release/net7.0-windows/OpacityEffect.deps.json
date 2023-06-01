@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OpacityEffect/1.0.0": {
+        "dependencies": {
+          "Islidesshow": "1.0.0"
+        },
+        "runtime": {
+          "OpacityEffect.dll": {}
+        }
+      },
+      "Islidesshow/1.0.0": {
+        "runtime": {
+          "Islidesshow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpacityEffect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Islidesshow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

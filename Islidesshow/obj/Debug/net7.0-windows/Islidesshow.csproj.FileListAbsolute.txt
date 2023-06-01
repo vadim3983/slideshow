@@ -1,0 +1,12 @@
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\Islidesshow\bin\Debug\net7.0-windows\Islidesshow.deps.json
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\Islidesshow\bin\Debug\net7.0-windows\Islidesshow.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\Islidesshow\bin\Debug\net7.0-windows\Islidesshow.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\Islidesshow\obj\Debug\net7.0-windows\Islidesshow.csproj.AssemblyReference.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\Islidesshow\obj\Debug\net7.0-windows\Islidesshow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\Islidesshow\obj\Debug\net7.0-windows\Islidesshow.AssemblyInfoInputs.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\Islidesshow\obj\Debug\net7.0-windows\Islidesshow.AssemblyInfo.cs
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\Islidesshow\obj\Debug\net7.0-windows\Islidesshow.csproj.CoreCompileInputs.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\Islidesshow\obj\Debug\net7.0-windows\Islidesshow.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\Islidesshow\obj\Debug\net7.0-windows\refint\Islidesshow.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\Islidesshow\obj\Debug\net7.0-windows\Islidesshow.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\Islidesshow\obj\Debug\net7.0-windows\ref\Islidesshow.dll

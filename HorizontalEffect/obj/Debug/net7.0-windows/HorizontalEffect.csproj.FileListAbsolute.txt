@@ -1,0 +1,15 @@
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\obj\Debug\net7.0-windows\HorizontalEffect.csproj.AssemblyReference.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\obj\Debug\net7.0-windows\HorizontalEffect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\obj\Debug\net7.0-windows\HorizontalEffect.AssemblyInfoInputs.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\obj\Debug\net7.0-windows\HorizontalEffect.AssemblyInfo.cs
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\obj\Debug\net7.0-windows\HorizontalEffect.csproj.CoreCompileInputs.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\bin\Debug\net7.0-windows\HorizontalEffect.deps.json
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\bin\Debug\net7.0-windows\HorizontalEffect.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\bin\Debug\net7.0-windows\HorizontalEffect.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\obj\Debug\net7.0-windows\HorizontalEffect.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\obj\Debug\net7.0-windows\refint\HorizontalEffect.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\obj\Debug\net7.0-windows\HorizontalEffect.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\obj\Debug\net7.0-windows\ref\HorizontalEffect.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\bin\Debug\net7.0-windows\Islidesshow.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\bin\Debug\net7.0-windows\Islidesshow.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\HorizontalEffect\obj\Debug\net7.0-windows\HorizontalEffect.csproj.CopyComplete

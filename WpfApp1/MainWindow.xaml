@@ -1,0 +1,71 @@
+﻿<Window x:Class="ImageSlideshowApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Image Slideshow App" Height="600" Width="800" MinHeight="600" MinWidth="800"
+        WindowStartupLocation="CenterScreen">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="File">
+                <MenuItem Header="Open folder" Click="OpenFolder_Click" />
+                <MenuItem Header="Exit" Click="Exit_Click" />
+            </MenuItem>
+            <MenuItem Header="Start slideshow">
+                <MenuItem Header="Horizontal Effect" Click="StartSlideshow_Click" />
+                <MenuItem Header="Vertical Effect" Click="StartSlideshow_Click" />
+                <MenuItem Header="Opacity Effect" Click="StartSlideshow_Click" />
+            </MenuItem>
+            <MenuItem Header="About" Click="About_Click" />
+        </Menu>
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*" />
+                <ColumnDefinition Width="7*" />
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0">
+                <Expander Header="Explorer" IsExpanded="True">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto">
+                        <TreeView Name="folderTreeView" SelectedItemChanged="OnFolderSelected" MaxHeight="400" />
+                    </ScrollViewer>
+                </Expander>
+
+                <Expander Header="File info" IsExpanded="False">
+                    <Grid Name="fileInfoGrid">
+                        <TextBlock Name="fileInfoTextBlock"
+                                   HorizontalAlignment="Left"
+                                   VerticalAlignment="Top"
+                                   Margin="10" />
+                    </Grid>
+                </Expander>
+
+                <Expander Header="Slideshow" IsExpanded="True">
+                    <StackPanel Orientation="Vertical">
+                        <ComboBox Name="slideshowEffectsComboBox" Margin="5" />
+                        <Button Content="Start slideshow" Click="StartSlideshow_Click" Margin="5" />
+                    </StackPanel>
+                </Expander>
+
+            </StackPanel>
+
+            <ListView Name="imageListView" Grid.Column="1" SelectionChanged="OnImageSelected">
+                <ListView.ItemsPanel>
+                    <ItemsPanelTemplate>
+                        <WrapPanel Orientation="Horizontal" />
+                    </ItemsPanelTemplate>
+                </ListView.ItemsPanel>
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <Border BorderBrush="Black" BorderThickness="1">
+                            <StackPanel Orientation="Vertical">
+                                <Image Source="{Binding Image}" Width="100" Height="100" />
+                                <TextBlock Text="{Binding Name}" TextAlignment="Center" />
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </Grid>
+    </DockPanel>
+</Window>

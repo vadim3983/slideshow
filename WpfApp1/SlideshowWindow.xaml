@@ -1,0 +1,16 @@
+﻿<Window x:Class="WpfApp1.SlideshowWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Slideshow" Height="768" Width="1024"
+        WindowStartupLocation="CenterScreen"
+        WindowStyle="None" ResizeMode="NoResize" ShowInTaskbar="False">
+    <Window.Resources>
+        <ContextMenu x:Key="MyContextMenu">
+            <MenuItem Header="Play/Pause" Click="PlayPauseButton_Click"/>
+            <MenuItem Header="Stop" Click="StopButton_Click"/>
+        </ContextMenu>
+    </Window.Resources>
+    <Grid Background="Black">
+        <Image Name="slideshowImage" Stretch="Uniform" MouseRightButtonDown="Image_MouseRightButtonDown" />
+    </Grid>
+</Window>

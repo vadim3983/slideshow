@@ -1,0 +1,15 @@
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\bin\Release\net7.0-windows\VerticalEffect.deps.json
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\bin\Release\net7.0-windows\VerticalEffect.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\bin\Release\net7.0-windows\VerticalEffect.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\bin\Release\net7.0-windows\Islidesshow.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\bin\Release\net7.0-windows\Islidesshow.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\obj\Release\net7.0-windows\VerticalEffect.csproj.AssemblyReference.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\obj\Release\net7.0-windows\VerticalEffect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\obj\Release\net7.0-windows\VerticalEffect.AssemblyInfoInputs.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\obj\Release\net7.0-windows\VerticalEffect.AssemblyInfo.cs
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\obj\Release\net7.0-windows\VerticalEffect.csproj.CoreCompileInputs.cache
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\obj\Release\net7.0-windows\VerticalEffect.csproj.CopyComplete
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\obj\Release\net7.0-windows\VerticalEffect.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\obj\Release\net7.0-windows\refint\VerticalEffect.dll
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\obj\Release\net7.0-windows\VerticalEffect.pdb
+C:\Users\vvi05\OneDrive\Рабочий стол\textwpf\VerticalEffect\obj\Release\net7.0-windows\ref\VerticalEffect.dll
